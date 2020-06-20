@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://johnbfox.me',
   pathPrefix: '/',
   title: 'Blog by John Fox',
   subtitle: 'Musings about programming, tech, etc.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'John Fox',
     photo: '/photo.jpg',
-    bio: 'Software Engineer based in Cambridge, MA. Currently building the machine at Postscript.io ',
+    bio: 'Software Engineer based in Boston, MA. Currently building the machine at Postscript.io ',
     contacts: {
       email: '',
       facebook: '',
