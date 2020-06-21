@@ -1,6 +1,6 @@
 ---
 title: First Post
-date: "2020-06-21"
+date: "2020-06-20"
 template: "post"
 draft: false
 slug: "first-post"
