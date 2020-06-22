@@ -31,7 +31,7 @@ Since you'll be spending a lot of time at your desk, this investment will be wel
 
 ### Over Communicate
 
-Things get lost in communication in traditional workplaces.  This is only amplified in remote workplaces.  Conversations happen primarily through slack of course.  Oftentimes these conversations happen in private threads and aren't surfaced to the team unless explicit action is taken to do so.  Thus it is important to air on the side of overcommunication to ensure your team is in sync.  Otherwise important details in conversations get lost and your team can get left out of the loop.
+Things get lost in communication in traditional workplaces.  This is only amplified in remote workplaces.  Conversations at my company happen primarily through slack, in async fashion. Oftentimes these conversations happen in private threads and aren't surfaced to the team unless explicit action is taken to do so.  Thus it is important to air on the side of overcommunication to ensure your team is in sync.  Otherwise important details in conversations get lost and your team can get left out of the loop.
 
 
 ### Create Boundries
